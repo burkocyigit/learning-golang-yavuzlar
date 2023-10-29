@@ -4,7 +4,6 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"github.com/burkocyigit/learning-golang-goapi/api"
 	"github.com/burkocyigit/learning-golang-yavuzlar/goapi/api"
 	"github.com/burkocyigit/learning-golang-yavuzlar/goapi/internal/tools"
 	"github.com/gorilla/schema"
